@@ -11,3 +11,5 @@ Winform app with ado .net
 9. Do not use any third party components/dlls  
 10. Do not use .NET Entity Framework.  
 11. Do not use SQL Server stored procedures/tridggers.  
+
+There is assignment MS SQL DB backup in root of the project branch 
